@@ -4,7 +4,7 @@ SwiftUI tabbed pager view
 
 ### Demo
 
-![Demo gif](https://imgur.com/a/7SebBXy.gif)
+![Demo gif](img/demo.gif)
 
 ### Notes
 
